@@ -1,0 +1,35 @@
+body {
+    
+    background-color: aqua;
+    
+}
+
+
+
+.had {
+    
+    color: blue;
+    border-bottom: 1px solid blue;
+    width: 300px;
+    
+}
+img {
+    
+    
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    float: left;
+     margin-top: 50px;
+    
+    
+}
+.content {
+    
+    
+    color: blue;
+    margin-top: 100px;
+    margin-left: 100px;
+
+    
+}
